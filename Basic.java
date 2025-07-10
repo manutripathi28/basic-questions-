@@ -80,7 +80,7 @@ import java.util.Scanner;
 
  //   print area and parameter of the circle
       
-       // public class Infosys{
+       // public class Basic{
          //   public static void main(String[] args) {
                   // Scanner ab= new Scanner(System.in);
                   // System.out.println("enter the radius");
@@ -320,7 +320,7 @@ import java.util.Scanner;
 
 // //CONDITIONAL STATEMENT
 
-//     public class Infosys{
+//     public class Basic{
 //         public static void main(String[] args){
 //                  int age=20;
 
@@ -341,9 +341,9 @@ import java.util.Scanner;
 
 
 
-//BASICS OF ARRAY
+//BasicS OF ARRAY
 
-public class Infosys{
+public class Basic{
         public static void main(String[] args) {
         //         // int age[];  //declaration 
         //         // age = new int[5]; //allocation
